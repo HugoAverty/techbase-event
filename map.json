@@ -2130,7 +2130,7 @@
         {
          "columns":16,
          "firstgid":5771,
-         "image":"..\/meetup-map-master\/src\/LimeZu_13_Conference_Hall_32x32.png",
+         "image":"src\/LimeZu_13_Conference_Hall_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -2143,7 +2143,7 @@
         {
          "columns":16,
          "firstgid":5963,
-         "image":"..\/meetup-map-master\/src\/LimeZu_14_Basement_32x32.png",
+         "image":"src\/LimeZu_14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -2156,7 +2156,7 @@
         {
          "columns":16,
          "firstgid":6763,
-         "image":"..\/meetup-map-master\/src\/LimeZu_19_Hospital_32x32.png",
+         "image":"src\/LimeZu_19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -2195,7 +2195,7 @@
         {
          "columns":16,
          "firstgid":9351,
-         "image":"..\/meetup-map-master\/src\/LimeZu_11_Halloween_32x32.png",
+         "image":"src\/LimeZu_11_Halloween_32x32.png",
          "imageheight":1952,
          "imagewidth":512,
          "margin":0,
@@ -2208,7 +2208,7 @@
         {
          "columns":16,
          "firstgid":10327,
-         "image":"..\/meetup-map-master\/src\/LimeZu_1_Generic_32x32.png",
+         "image":"src\/LimeZu_1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
