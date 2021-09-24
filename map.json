@@ -2117,7 +2117,7 @@
         {
          "columns":75,
          "firstgid":746,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/LimeZu_23_Room_Builder_32x32.png",
+         "image":"..\/meetup-map-master\/src\/LimeZu_23_Room_Builder_32x32.png",
          "imageheight":2144,
          "imagewidth":2400,
          "margin":0,
@@ -2130,7 +2130,7 @@
         {
          "columns":16,
          "firstgid":5771,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/LimeZu_13_Conference_Hall_32x32.png",
+         "image":"..\/meetup-map-master\/src\/LimeZu_13_Conference_Hall_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -2143,7 +2143,7 @@
         {
          "columns":16,
          "firstgid":5963,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/LimeZu_14_Basement_32x32.png",
+         "image":"..\/meetup-map-master\/src\/LimeZu_14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -2156,7 +2156,7 @@
         {
          "columns":16,
          "firstgid":6763,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/LimeZu_19_Hospital_32x32.png",
+         "image":"..\/meetup-map-master\/src\/LimeZu_19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -2169,7 +2169,7 @@
         {
          "columns":16,
          "firstgid":8523,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/LimeZu_22_Museum_32x32.png",
+         "image":"..\/meetup-map-master\/src\/LimeZu_22_Museum_32x32.png",
          "imageheight":1152,
          "imagewidth":512,
          "margin":0,
@@ -2182,7 +2182,7 @@
         {
          "columns":18,
          "firstgid":9099,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/LimeZu_24_User_Interface_32x32.png",
+         "image":"..\/meetup-map-master\/src\/LimeZu_24_User_Interface_32x32.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -2195,7 +2195,7 @@
         {
          "columns":16,
          "firstgid":9351,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/LimeZu_11_Halloween_32x32.png",
+         "image":"..\/meetup-map-master\/src\/LimeZu_11_Halloween_32x32.png",
          "imageheight":1952,
          "imagewidth":512,
          "margin":0,
@@ -2208,7 +2208,7 @@
         {
          "columns":16,
          "firstgid":10327,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/LimeZu_1_Generic_32x32.png",
+         "image":"..\/meetup-map-master\/src\/LimeZu_1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -2221,7 +2221,7 @@
         {
          "columns":16,
          "firstgid":11287,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/LimeZu_2_LivingRoom_32x32.png",
+         "image":"..\/meetup-map-master\/src\/LimeZu_2_LivingRoom_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
