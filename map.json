@@ -2139,8 +2139,7 @@
      "mapDescription":"A perfect map for a small group meeting or conference. 1 amphitheater, 5 small meeting rooms, a cafeteria, a reception room\n\nSuitable from 20 to 50 people.",
      "mapImage":"meetup.png",
      "mapLink":"https:\/\/github.com\/workadventure\/meetup-map",
-     "mapName":"Meetup",
-     "script":"script.js"
+     "mapName":"Meetup"
     },
  "propertytypes":
     {
@@ -2148,8 +2147,7 @@
      "mapDescription":"string",
      "mapImage":"string",
      "mapLink":"string",
-     "mapName":"string",
-     "script":"string"
+     "mapName":"string"
     },
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
