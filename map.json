@@ -135,7 +135,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -217,7 +217,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/2.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -281,7 +281,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/3.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -345,7 +345,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/4.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -373,7 +373,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/5\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -427,7 +427,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/5.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -455,7 +455,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/6\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -473,7 +473,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/6\/2.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -491,7 +491,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/6\/3.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -617,7 +617,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/6.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -663,7 +663,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/7\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -681,7 +681,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/7\/2.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -699,7 +699,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/7\/3.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -717,7 +717,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/7\/4.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -753,7 +753,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/7.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -781,7 +781,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/8\/2.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -799,7 +799,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/8\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -853,7 +853,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/8.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -971,7 +971,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/9\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -989,7 +989,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/9.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1071,7 +1071,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/10.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1117,7 +1117,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/excalidraw.com\/#room=a8792f566298136c55cf,oRPIG5CNS5ltaOkJHm9FnQ"
+                                 "value":"files\/POSTERS\/11\/2.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1135,7 +1135,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/11\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1171,7 +1171,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/11.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1199,7 +1199,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/12\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1217,7 +1217,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/12\/2.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1235,7 +1235,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/12\/3.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1253,7 +1253,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/12\/4.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1271,7 +1271,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/12\/5.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1289,7 +1289,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/12\/6.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1307,7 +1307,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/12.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1353,7 +1353,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/13\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1367,6 +1367,12 @@
                          "id":173,
                          "name":"agenda13",
                          "opacity":1,
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"files\/AGENDEN\/13.pdf"
+                                }],
                          "type":"tilelayer",
                          "visible":true,
                          "width":96,
@@ -1393,7 +1399,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/14\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1411,7 +1417,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/14.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1457,7 +1463,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/15.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1539,7 +1545,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/16.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1567,7 +1573,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/17\/1.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1585,7 +1591,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"http:\/\/www.africau.edu\/images\/default\/sample.pdf"
+                                 "value":"files\/POSTERS\/17\/2.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1621,7 +1627,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/www.agenda.com"
+                                 "value":"files\/AGENDEN\/17.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
